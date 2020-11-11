@@ -1,0 +1,17 @@
+
+body{
+    padding-left: 1em;
+}
+
+.img{
+    width: 15%
+}
+a{
+    color: black
+}
+.card-deck{
+    width: 80%;
+    padding-left: 15em;
+    padding-top: 1em;
+    
+}
